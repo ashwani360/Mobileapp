@@ -1,0 +1,297 @@
+    [19] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "As a new president, he dismissed the idea of American exceptionalism, noting that Greeks thi
+nk their country is special, too. He labeled the Bush-era interrogation practices, euphemistically called \u201Charsh\u201D f
+or years, as torture. America, he has suggested, has much to answer given its history in Latin America and the Middle East.",
+
+                       "tag" => nil,
+               "description" => "com.washingtonpost.flowout.TextViewSpanFix{228dfa00 VFED..CL ........ 80,0-640,724}",
+                     "class" => "com.washingtonpost.flowout.TextViewSpanFix",
+                      "rect" => {
+            "center_y" => 1063,
+            "center_x" => 319,
+              "height" => 724,
+                   "y" => 701,
+               "width" => 560,
+                   "x" => 39
+        }
+    },
+    [20] {
+                        "id" => "video_play_image",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.ImageView",
+                      "rect" => {
+            "center_y" => 1223,
+            "center_x" => 216,
+              "height" => 155,
+                   "y" => 1146,
+               "width" => 155,
+                   "x" => 139
+        },
+                       "tag" => nil,
+               "description" => "android.widget.ImageView{21d0aa30 V.ED.... ........ 282,125-437,280 #7f08009f app:id/video_p
+lay_image}"
+    },
+    [21] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.view.View",
+                      "rect" => {
+            "center_y" => 151,
+            "center_x" => 360,
+              "height" => 2,
+                   "y" => 150,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.view.View{21d42550 V.ED.... ........ 0,0-720,2}"
+    },
+    [22] {
+                        "id" => "tts_buttons_layout",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.LinearLayout",
+                      "rect" => {
+            "center_y" => 362,
+            "center_x" => 356,
+              "height" => 116,
+                   "y" => 304,
+               "width" => 106,
+                   "x" => 303
+        },
+                       "tag" => nil,
+               "description" => "android.widget.LinearLayout{21daabf0 V.E..... ........ 614,308-720,424 #7f0800d4 app:id/tts_
+buttons_layout}"
+    },
+    [23] {
+                        "id" => "section_hat",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "TOP STORIES",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{227f6238 V.ED.... ........ 253,16-466,82 #7f0800f1 app:id/section_ha
+t}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 191,
+            "center_x" => 595,
+              "height" => 66,
+                   "y" => 158,
+               "width" => 213,
+                   "x" => 489
+        }
+    },
+    [24] {
+                        "id" => "article_heading_byline",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "BY PAUL FARHI",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{228cb858 V.ED.... ........ 242,40-478,81 #7f0800ec app:id/article_he
+ading_byline}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 571,
+            "center_x" => 601,
+              "height" => 41,
+                   "y" => 551,
+               "width" => 236,
+                   "x" => 483
+        }
+    },
+    [25] {
+                        "id" => "bottom_rule",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.view.View",
+                      "rect" => {
+            "center_y" => 582,
+            "center_x" => 601,
+              "height" => 2,
+                   "y" => 581,
+               "width" => 236,
+                   "x" => 483
+        },
+                       "tag" => nil,
+               "description" => "android.view.View{22d9cb58 V.ED.... ........ 242,101-478,103 #7f0800a5 app:id/bottom_rule}"
+    },
+    [26] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "NBC News went into damage-control mode a day after the public symbol of the network, anchor
+Brian Williams, faced a torrent of derision and criticism for telling a story about his wartime reporting that has proved to
+be untrue.\n",
+                       "tag" => nil,
+               "description" => "com.washingtonpost.flowout.TextViewSpanFix{229198e0 VFED..CL ........ 80,0-640,574}",
+                     "class" => "com.washingtonpost.flowout.TextViewSpanFix",
+                      "rect" => {
+            "center_y" => 899,
+            "center_x" => 683,
+              "height" => 574,
+                   "y" => 612,
+               "width" => 560,
+                   "x" => 403
+        }
+    },
+    [27] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "As public disapproval roared on social media, NBC sought to protect and defend Williams, its
+ lead anchor since 2004 and the most popular anchor in the nation.",
+                       "tag" => nil,
+               "description" => "com.washingtonpost.flowout.TextViewSpanFix{229cf788 VFED..CL ........ 80,0-640,394}",
+                     "class" => "com.washingtonpost.flowout.TextViewSpanFix",
+                      "rect" => {
+            "center_y" => 1096,
+            "center_x" => 683,
+              "height" => 394,
+                   "y" => 899,
+               "width" => 560,
+                   "x" => 403
+        }
+    },
+    [28] {
+                        "id" => "drawer_toggle",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "",
+                       "tag" => nil,
+               "description" => "android.widget.ToggleButton{229b07e0 VFED..C. ........ 0,0-106,96 #7f080042 app:id/drawer_to
+ggle}",
+                     "class" => "android.widget.ToggleButton",
+                      "rect" => {
+            "center_y" => 98,
+            "center_x" => 53,
+              "height" => 96,
+                   "y" => 50,
+               "width" => 106,
+                   "x" => 0
+        }
+    },
+    [29] {
+                        "id" => "section_list_top_nav_wrapper",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.LinearLayout",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 413,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 614,
+                   "x" => 106
+        },
+                       "tag" => nil,
+               "description" => "android.widget.LinearLayout{229b0ef8 V.E..... ........ 106,0-720,100 #7f080078 app:id/sectio
+n_list_top_nav_wrapper}"
+    },
+    [30] {
+                        "id" => "drawer_toggle_separator",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.view.View",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 107,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 2,
+                   "x" => 106
+        },
+                       "tag" => nil,
+               "description" => "android.view.View{229b1140 V.ED.... ........ 0,0-2,100 #7f080043 app:id/drawer_toggle_separa
+tor}"
+    },
+    [31] {
+                        "id" => "sections_list",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "it.sephiroth.android.library.widget.HListView",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 414,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 612,
+                   "x" => 108
+        },
+                       "tag" => nil,
+               "description" => "it.sephiroth.android.library.widget.HListView{229b18d8 VFED..C. ........ 2,0-614,100 #7f0800
+79 app:id/sections_list}"
+    },
+    [32] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.RelativeLayout",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 228,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 241,
+                   "x" => 108
+        },
+                       "tag" => nil,
+               "description" => "android.widget.RelativeLayout{226cacc0 V.E..... ........ 0,0-241,100}"
+    },
+    [33] {
+                        "id" => "section_list_item_text",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "TOP STORIES",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{22918fb8 V.ED.... ........ 32,0-209,100 #7f0801aa app:id/section_lis
+t_item_text}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 228,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 177,
+                   "x" => 140
+        }
+    },
+    [34] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.RelativeLayout",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 521,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 340,
+                   "x" => 351
+        },
+                       "tag" => nil,
+               "description" => "android.widget.RelativeLayout{226d0610 V.E..... ........ 243,0-583,100}"
+    },
+    [35] {
+                        "id" => "section_list_item_text",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "AROUND THE WORLD",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{22db88b0 V.ED.... ........ 32,0-308,100 #7f0801aa app:id/section_lis
+t_item_text}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 100,
+            "center_x" => 521,
+              "height" => 100,
+                   "y" => 50,
+               "width" => 276,
+                   "x" => 383
+        }
+    }
+]

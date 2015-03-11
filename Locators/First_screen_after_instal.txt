@@ -1,0 +1,225 @@
+[
+    [ 0] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "com.android.internal.policy.impl.PhoneWindow$DecorView",
+                      "rect" => {
+            "center_y" => 640,
+            "center_x" => 360,
+              "height" => 1280,
+                   "y" => 0,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "com.android.internal.policy.impl.PhoneWindow$DecorView{21e4dcc8 V.E..... R....... 0,0-720,12
+80}"
+    },
+    [ 1] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.LinearLayout",
+                      "rect" => {
+            "center_y" => 640,
+            "center_x" => 360,
+              "height" => 1280,
+                   "y" => 0,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.widget.LinearLayout{21e4e948 V.E..... ........ 0,0-720,1280}"
+    },
+    [ 2] {
+                        "id" => "content",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.FrameLayout",
+                      "rect" => {
+            "center_y" => 665,
+            "center_x" => 360,
+              "height" => 1230,
+                   "y" => 50,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.widget.FrameLayout{21e51868 V.ED.... ........ 0,50-720,1280 #1020002 android:id/cont
+ent}"
+    },
+    [ 3] {
+                        "id" => "splash_container",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.RelativeLayout",
+                      "rect" => {
+            "center_y" => 665,
+            "center_x" => 360,
+              "height" => 1230,
+                   "y" => 50,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.widget.RelativeLayout{21e51e98 V.E..... ........ 0,0-720,1230 #7f08007b app:id/splas
+h_container}"
+    },
+    [ 4] {
+                        "id" => "gradient_container",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.view.View",
+                      "rect" => {
+            "center_y" => 665,
+            "center_x" => 360,
+              "height" => 1230,
+                   "y" => 50,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.view.View{21e05f78 V.ED.... ........ 0,0-720,1230 #7f080095 app:id/gradient_containe
+r}"
+    },
+    [ 5] {
+                        "id" => "cover_container",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.LinearLayout",
+                      "rect" => {
+            "center_y" => 664,
+            "center_x" => 360,
+              "height" => 741,
+                   "y" => 294,
+               "width" => 720,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.widget.LinearLayout{21e066c0 V.E..... ........ 0,244-720,985 #7f080096 app:id/cover_
+container}"
+    },
+    [ 6] {
+                        "id" => "welcome_text",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "Welcome.",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{21d11fc8 V.ED.... ........ 60,60-611,207 #7f080097 app:id/welcome_te
+xt}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 427,
+            "center_x" => 335,
+              "height" => 147,
+                   "y" => 354,
+               "width" => 551,
+                   "x" => 60
+        }
+    },
+    [ 7] {
+                        "id" => "letter_text_p1",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "Two editions, 5 a.m. and 5 p.m. ET, bring you our award-winning storytelling, photography an
+d graphics. When breaking news requires your immediate attention, we'll deliver that, too.",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{21d56890 V.ED.... ........ 60,287-660,583 #7f080098 app:id/letter_te
+xt_p1}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 729,
+            "center_x" => 360,
+              "height" => 296,
+                   "y" => 581,
+               "width" => 600,
+                   "x" => 60
+        }
+    },
+    [ 8] {
+                        "id" => "letter_text_p2",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "Enjoy the app!",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{21d6ae50 V.ED.... ........ 60,633-334,681 #7f080099 app:id/letter_te
+xt_p2}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 951,
+            "center_x" => 197,
+              "height" => 48,
+                   "y" => 927,
+               "width" => 274,
+                   "x" => 60
+        }
+    },
+    [ 9] {
+                        "id" => "wp_logo",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.ImageView",
+                      "rect" => {
+            "center_y" => 1180,
+            "center_x" => 300,
+              "height" => 200,
+                   "y" => 1080,
+               "width" => 600,
+                   "x" => 0
+        },
+                       "tag" => nil,
+               "description" => "android.widget.ImageView{21d0ae70 V.ED.... ........ 0,1030-600,1230 #7f08009a app:id/wp_logo
+}"
+    },
+    [10] {
+                        "id" => "swipe_container",
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.LinearLayout",
+                      "rect" => {
+            "center_y" => 1192,
+            "center_x" => 609,
+              "height" => 56,
+                   "y" => 1164,
+               "width" => 141,
+                   "x" => 539
+        },
+                       "tag" => nil,
+               "description" => "android.widget.LinearLayout{21d16c80 V.E..... ........ 539,1114-680,1170 #7f08009b app:id/sw
+ipe_container}"
+    },
+    [11] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                     "class" => "android.widget.ImageView",
+                      "rect" => {
+            "center_y" => 1192,
+            "center_x" => 567,
+              "height" => 56,
+                   "y" => 1164,
+               "width" => 56,
+                   "x" => 539
+        },
+                       "tag" => nil,
+               "description" => "android.widget.ImageView{21d24900 V.ED.... ........ 0,0-56,56}"
+    },
+    [12] {
+                        "id" => nil,
+                   "enabled" => true,
+        "contentDescription" => nil,
+                      "text" => "Swipe",
+                       "tag" => nil,
+               "description" => "android.widget.TextView{21d6e0f8 V.ED.... ........ 70,10-141,46}",
+                     "class" => "android.widget.TextView",
+                      "rect" => {
+            "center_y" => 1192,
+            "center_x" => 644,
+              "height" => 36,
+                   "y" => 1174,
+               "width" => 71,
+                   "x" => 609
+        }
+    }
+]

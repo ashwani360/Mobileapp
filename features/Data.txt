@@ -1,0 +1,6 @@
+{
+    :welcome   => 'Welcome',
+    :Description   => 'bar',
+    :comment  => ['item1', 'item2'],
+    :instruction  => true
+}
